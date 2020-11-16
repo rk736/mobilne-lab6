@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Basic Lab</string>
+    <string name="first_fragment_menu">Pierwszy fragment</string>
+    <string name="second_fragment_menu">Drugi fragment</string>
+    <string name="third_fragment_menu">Trzeci fragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="third_fragment_label">Third Fragment</string>
+    <string name="goToThird">Idź do trzeciego fragmentu</string>
+    <string name="goToSecond">Idź do drugiego fragmentu</string>
+    <string name="text_first_fragment">Pierwszy fragment</string>
+    <string name="text_second_fragment">Drugi fragment</string>
+    <string name="text_third_fragment">Trzeci fragment</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="goToFirst">Idź do pierwszego fragmentu</string>
+</resources>

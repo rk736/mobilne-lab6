@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.myapplication.MainActivity">
+    <item android:id="@+id/action_first_fragment"
+          android:title="@string/first_fragment_menu"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+    <item android:id="@+id/action_second_fragment"
+          android:title="@string/second_fragment_menu"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+    <item android:id="@+id/action_third_fragment"
+          android:title="@string/third_fragment_menu"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+</menu>
